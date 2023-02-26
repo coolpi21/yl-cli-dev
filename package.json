@@ -12,6 +12,9 @@
 	"devDependencies": {
 		"lerna": "^6.5.1"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"workspaces": [
 		"packages/*"
 	]
