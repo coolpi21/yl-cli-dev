@@ -1,5 +1,5 @@
 {
-	"name": "@yl-cli-dev/core",
+	"name": "@yl-front-dev/core",
 	"version": "1.0.2",
 	"description": "> TODO: description",
 	"author": "CQY <coolfish@xinyue.io>",
@@ -22,5 +22,5 @@
 	"dependencies": {
 		"@yl-cli-dev/utils": "^1.0.2"
 	},
-	"gitHead": "e53b85d3715c279cb478c1c0562db581495a35e2"
+	"gitHead": "c86ae25449fc6568ad7b29f99333b1de7ddc4e75"
 }
