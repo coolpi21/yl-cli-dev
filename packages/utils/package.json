@@ -13,7 +13,11 @@
 	"files": [
 		"lib"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"test": "echo 'test from core'"
-	}
+	},
+	"gitHead": "e53b85d3715c279cb478c1c0562db581495a35e2"
 }

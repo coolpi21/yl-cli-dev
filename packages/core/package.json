@@ -10,6 +10,9 @@
 		"lib": "lib",
 		"test": "__tests__"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"files": [
 		"lib"
 	],
@@ -18,5 +21,6 @@
 	},
 	"dependencies": {
 		"@yl-cli-dev/utils": "^1.0.1"
-	}
+	},
+	"gitHead": "e53b85d3715c279cb478c1c0562db581495a35e2"
 }
