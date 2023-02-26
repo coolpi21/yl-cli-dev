@@ -1,6 +1,6 @@
 {
 	"name": "@yl-cli-dev/core",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "> TODO: description",
 	"author": "CQY <coolfish@xinyue.io>",
 	"homepage": "",
@@ -20,7 +20,7 @@
 		"test": "echo 'hello world'"
 	},
 	"dependencies": {
-		"@yl-cli-dev/utils": "^1.0.1"
+		"@yl-cli-dev/utils": "^1.0.2"
 	},
 	"gitHead": "e53b85d3715c279cb478c1c0562db581495a35e2"
 }
